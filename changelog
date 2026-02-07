@@ -1,0 +1,18 @@
+# Semana 1
+### Cambios agregados
+-Creación del REPO en git
+-Definición de roles y temática del juego
+ 
+### Problemas detectados
+- Tiempo de carga del juego
+-Problemas con algunos sonidos
+ 
+### Soluciones / optimizaciones
+- Reducción de luces dinámicas
+-Checar como optimizarlo
+ 
+### Pendientes
+- Crear REPO git
+-Poner el READ ME en el repo
+-Subir el proyecto de escenarios al repo utilizando gitignore
+-leer las especificaciones de FE y empezar a revisar que problemas tiene el mapa actual
