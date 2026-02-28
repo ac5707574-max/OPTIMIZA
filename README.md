@@ -24,3 +24,8 @@ Este proyecto se entregara y testeara principalmente en una computadora con las 
 - Tamaño del build
 - Resolución de texturas
 Developed with Unreal Engine 5
+
+## Documentacion
+[LUCKY_SUSHI!_OV.pptx](https://github.com/user-attachments/files/25618235/LUCKY_SUSHI._OV.pptx)
+
+
