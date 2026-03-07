@@ -62,3 +62,21 @@
  
 ### Soluciones / optimizaciones
 - Trabajamos arduamente para ponernos al corriente
+
+
+# Semana 6
+### Cambios agregados
+-Se implemento el sistema de inventario
+-Doria realizo bocetos de modelos que nos faltaban para el CheckPoint A
+-Los blueprints que realizo fatima para crear la funcionalidad de npcs con ia no funcionaron
+-Se cargaron modelos al escenario para que no se viera tan vacio
+-Entregamos la tarea de CheckPoint A
+
+### Problemas detectados
+- Los blueprints que hizo fatima algo fallo, no funcionan como deberian
+-Nos dimos cuenta que no hicimos whiteRoom 
+-Las escalas de el restaurante estan un poco mal
+ 
+### Soluciones / optimizaciones
+- Esta buscando la solucion a los blue prints de ia
+- Se va a redimensionar algunas cosas del mapa 
