@@ -1,6 +1,6 @@
 # OPTIMIZA
 ## Pitch
-Sushi Runner es un videojuego de un restaurante de sushi en el que vas a poder hacer los pedidos que se necesiten y entregarlos a su debida mesa, la meta es entregar los pedidos a tiempo y completar la jornada laboral.
+Lucky Sushi es un videojuego de un restaurante de sushi en el que vas a poder hacer los pedidos que se necesiten y entregarlos a su debida mesa, la meta es entregar los pedidos a tiempo y completar la jornada laboral, y evitar que los espiritus se apoderen de tu restaurante
  
 ## Mecánicas
 - Exploración Libre
@@ -15,7 +15,7 @@ Sushi Runner es un videojuego de un restaurante de sushi en el que vas a poder h
  
 Este proyecto se entregara y testeara principalmente en una computadora con las siguientes especificaciones:
 -AMD Ryzen 9
--Nvidia 4020
+-Nvidia 4060
 -16 GB de ram
  
 ## Métricas a reportar
