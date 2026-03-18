@@ -3,9 +3,9 @@
 Sushi Runner es un videojuego de un restaurante de sushi en el que vas a poder hacer los pedidos que se necesiten y entregarlos a su debida mesa, la meta es entregar los pedidos a tiempo y completar la jornada laboral.
  
 ## Mecánicas
-- Exploración Libre
-- Entrega de pedidos
-- Adquirir mejoras
+- Exploración Libre.
+- Entrega de pedidos.
+- Adquirir mejoras.
  
 ## Controles planeados
 - Teclado y mouse
