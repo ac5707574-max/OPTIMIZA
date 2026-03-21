@@ -80,3 +80,34 @@
 ### Soluciones / optimizaciones
 - Esta buscando la solucion a los blue prints de ia
 - Se va a redimensionar algunas cosas del mapa 
+
+
+# Semana 7
+### Cambios agregados
+-Fatima no encontro porque los blueprints de npcs no funcionaban, busco otro tutorial y creo dos clases de npcs separadas y ya hay npcs funcionales 
+-Se redimensiono el mapa haciendolo mas chico
+-Se implementaron los destruibles al videojuego
+-Doria implemento los menus del juego
+-Alan creo las particulas
+
+### Problemas detectados
+- Hubo problemas al subir al repositorio porque no deja cambiar de branch
+ 
+### Soluciones / optimizaciones
+- Fatima optimizo un poco los bluprints de npcs, aunque se ven desordenados son mas eficientes
+
+# Semana 8
+### Cambios agregados
+- Realizamos el primer build
+-Realizamos pruebas de rendimiento
+
+### Problemas detectados
+- El menu de inicio no se veia bien
+ 
+### Soluciones / optimizaciones
+- Doria cree que fue por las configuraciones al crear el .exe se va a estar revisando
+
+Optimizaciones:
+
+-El juego con el anterior mapa iba a 48.9 fps, lo hicimos mas chico y llegamos a los 60 fps estables
+
