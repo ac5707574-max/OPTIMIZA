@@ -111,3 +111,36 @@ Optimizaciones:
 
 -El juego con el anterior mapa iba a 48.9 fps, lo hicimos mas chico y llegamos a los 60 fps estables
 
+# Semana 9
+### Cambios agregados
+- Se crearon mas widgets: endgame npc, cargar/guardar partida ingresar nombre, personalizacion de menu de inicio.
+-inputs de gamepad/teclado:
+Y pausa 
+X inventario
+B recoger 
+Flecha arriba cambiar cámara 
+Flecha abajo guardar
+-H guardad progreso para guardar y luego cargar
+-personaje con 4 aniamciones
+-3 modelos propios nuevos
+-sistema de vida
+-3 nuevos destruibles
+-4 particulas
+-Realizamos pruebas de rendimiento
+
+### Problemas detectados
+- No carga bien el nombre, inventario, vida
+- La ia aun no causa daño
+-No funcionaba la opcion de mostrar nombre
+-Al subir archivos git 
+ 
+### Soluciones / optimizaciones
+- Doria penso en la logica y la mezcle con la de cargar/guardar para que se mostrara el nombre
+- Investigar mas sobre el guardado de variables
+- Alan cree que el pronblema es que sea por el tamaño de los archivos
+
+Optimizaciones:
+
+-Se disminuyo la geometria de algunos modelso en blender lo que hace que el mapa cargue mas rapido al inciar la partida sigue 
+con 60 fps pero varia al haber ias persiguiendo al jugador hay que optimizarlo mas.
+
