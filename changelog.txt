@@ -1,64 +1,226 @@
 # Semana 1
+
 ### Cambios agregados
+
 -Creación del REPO en git
+
 -Definición de roles y temática del juego
- 
+
 ### Problemas detectados
+
 - Tiempo de carga del juego
+
 -Problemas con algunos sonidos
- 
+
 ### Soluciones / optimizaciones
+
 - Reducción de luces dinámicas
+
 -Checar como optimizarlo
- 
+
 ### Pendientes
+
 - Crear REPO git
+
 -Poner el READ ME en el repo
+
 -Subir el proyecto de escenarios al repo utilizando gitignore
+
 -leer las especificaciones de FE y empezar a revisar que problemas tiene el mapa actual
-
+ 
 # Semana 2
+
 ### Cambios agregados
+
 -Replanteamiento del proyecto
+
 -camara en 1era y 3era persona
-
+ 
 ### Problemas detectados
+
 - Nos dimos cuenta que no funcionaba nuestro proyecto de escenarios y no lo pudimos utilizar
- 
+
 ### Soluciones / optimizaciones
+
 - Creamos un proyecto de 0
-
+ 
 # Semana 3
+
 ### Cambios agregados
+
 -Creacion del landscape
+
 -Terreno del juego y limites hechos
-
+ 
 ### Problemas detectados
+
 - No hubo problemas esa semana
- 
+
 ### Soluciones / optimizaciones
+
 - no se necesito solucionar nada
-
+ 
 # Semana 4
+
 ### Cambios agregados
+
 -Eleccion de texturas
+
 -Aplicarlas al landscape
--Avenida principal 
 
+-Avenida principal
+ 
 ### Problemas detectados
+
 - No se aplicaban algunas texturas bien
- 
+
 ### Soluciones / optimizaciones
+
 - Se revisaron los nodos y encontramos el problema
-
-# Semana 5
-### Cambios agregados
--Empezamos a cargar los modelos al escenario
--Elegimos hacer campaña de redes sociales
--Doria modelo 2 modelos propios 
-
-### Problemas detectados
-- Nos organizamos mal en los tiempos
  
+# Semana 5
+
+### Cambios agregados
+
+-Empezamos a cargar los modelos al escenario
+
+-Elegimos hacer campaña de redes sociales
+
+-Doria modelo 2 modelos propios
+ 
+### Problemas detectados
+
+- Nos organizamos mal en los tiempos
+
 ### Soluciones / optimizaciones
+
 - Trabajamos arduamente para ponernos al corriente
+ 
+ 
+# Semana 6
+
+### Cambios agregados
+
+-Se implemento el sistema de inventario
+
+-Doria realizo bocetos de modelos que nos faltaban para el CheckPoint A
+
+-Los blueprints que realizo fatima para crear la funcionalidad de npcs con ia no funcionaron
+
+-Se cargaron modelos al escenario para que no se viera tan vacio
+
+-Entregamos la tarea de CheckPoint A
+ 
+### Problemas detectados
+
+- Los blueprints que hizo fatima algo fallo, no funcionan como deberian
+
+-Nos dimos cuenta que no hicimos whiteRoom 
+
+-Las escalas de el restaurante estan un poco mal
+
+### Soluciones / optimizaciones
+
+- Esta buscando la solucion a los blue prints de ia
+
+- Se va a redimensionar algunas cosas del mapa
+ 
+ 
+# Semana 7
+
+### Cambios agregados
+
+-Fatima no encontro porque los blueprints de npcs no funcionaban, busco otro tutorial y creo dos clases de npcs separadas y ya hay npcs funcionales 
+
+-Se redimensiono el mapa haciendolo mas chico
+
+-Se implementaron los destruibles al videojuego
+
+-Doria implemento los menus del juego
+
+-Alan creo las particulas
+ 
+### Problemas detectados
+
+- Hubo problemas al subir al repositorio porque no deja cambiar de branch
+
+### Soluciones / optimizaciones
+
+- Fatima optimizo un poco los bluprints de npcs, aunque se ven desordenados son mas eficientes
+ 
+# Semana 8
+
+### Cambios agregados
+
+- Realizamos el primer build
+
+-Realizamos pruebas de rendimiento
+ 
+### Problemas detectados
+
+- El menu de inicio no se veia bien
+
+### Soluciones / optimizaciones
+
+- Doria cree que fue por las configuraciones al crear el .exe se va a estar revisando
+ 
+Optimizaciones:
+ 
+-El juego con el anterior mapa iba a 48.9 fps, lo hicimos mas chico y llegamos a los 60 fps estables
+ 
+# Semana 9
+
+### Cambios agregados
+
+- Se crearon mas widgets: endgame npc, cargar/guardar partida ingresar nombre, personalizacion de menu de inicio.
+
+-inputs de gamepad/teclado:
+
+Y pausa 
+
+X inventario
+
+B recoger 
+
+Flecha arriba cambiar cámara 
+
+Flecha abajo guardar
+
+-H guardad progreso para guardar y luego cargar
+
+-personaje con 4 aniamciones
+
+-3 modelos propios nuevos
+
+-sistema de vida
+
+-3 nuevos destruibles
+
+-4 particulas
+
+-Realizamos pruebas de rendimiento
+ 
+### Problemas detectados
+
+- No carga bien el nombre, inventario, vida
+
+- La ia aun no causa daño
+
+-No funcionaba la opcion de mostrar nombre
+
+-Al subir archivos git 
+
+### Soluciones / optimizaciones
+
+- Doria penso en la logica y la mezcle con la de cargar/guardar para que se mostrara el nombre
+
+- Investigar mas sobre el guardado de variables
+
+- Alan cree que el pronblema es que sea por el tamaño de los archivos
+ 
+Optimizaciones:
+ 
+-Se disminuyo la geometria de algunos modelso en blender lo que hace que el mapa cargue mas rapido al inciar la partida sigue 
+
+con 60 fps pero varia al haber ias persiguiendo al jugador hay que optimizarlo mas.
+ 
