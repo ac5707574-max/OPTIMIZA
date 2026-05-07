@@ -223,4 +223,40 @@ Optimizaciones:
 -Se disminuyo la geometria de algunos modelso en blender lo que hace que el mapa cargue mas rapido al inciar la partida sigue 
 
 con 60 fps pero varia al haber ias persiguiendo al jugador hay que optimizarlo mas.
+
+# Semana 10
+
+### Cambios agregados
+- Se agrego iluminacion a la escena junto con el ciclo de dia y de noche
+ 
+### Problemas detectados
+- Sigue el problema de que no cargan bien lso items del inventario
+- Iba mas lento
+
+### Soluciones / optimizaciones
+Optimizaciones:
+- Se agrego una optimizacion de que la luz de los faroles solo cargue si el personaje esta cerca de lo otro seguimos con prueba y error
+
+# Semana 11
+### Cambios agregados
+- Se agregaron mas modelos y mas particulas para ambientar mas el lugar
+ 
+### Problemas detectados
+- Planificar el resto de acciones que faltan para el proyecto
+
+### Soluciones / optimizaciones
+Soluciones:
+- Nos dividimnos ya los ultimos pasos  para terminar el proyecto a tiempo
+
+# Semana 12
+### Cambios agregados
+- Ya casi acabamos la campaña en redes solo faltan dos publicaciones
+ 
+### Problemas detectados
+- Checar como realizar las cinematicas
+
+### Soluciones / optimizaciones
+Soluciones:
+- Vimos en youtube un tutorial para dar a entender nuestra historia
+ 
  
