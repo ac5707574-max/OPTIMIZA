@@ -259,4 +259,61 @@ Soluciones:
 Soluciones:
 - Vimos en youtube un tutorial para dar a entender nuestra historia
  
+ # Semana 13
+### Cambios agregados
+- Se implemento el sistema de cambio de armas con las teclas 1 2 y 3
+- 1 mano
+- 2 cuchillo
+- 3 totem
  
+### Problemas detectados
+- No guardaba la variable el numero de la arma actual asi que no detectaba bien cuando el usuario cambiaba arma
+
+### Soluciones / optimizaciones
+Soluciones:
+- Al hacer esa accion con otra variable [equipweapon] guarda el numero y se asigna el item, hicimos este workarround ya que asi lo podiamos usar en otras cosas
+
+ # Semana 14
+### Cambios agregados
+- En esta semana trabajamos la ilumunacion del escenario, y que cuando sea de noche no se vea tan oscuro, se ajusto conforme al ciclo dia y noche e igual con el cielo estrellado, asi como los cambios en el escenario del bosque, cambiamos un modelo porque no desaparecia el modelo cuando implementamos la optimizacion de que desaparecieran los arboles que estan muy lejos 
+ 
+### Problemas detectados
+- Un modelo de un arbol no se mostraba bien la textura
+
+### Soluciones / optimizaciones
+Soluciones:
+- Decidimos quitar ese modelo y lo reemplazamos por otro nuevo que si desaparecia
+
+ # Semana 15
+### Cambios agregados
+- En esta semana empezamos a trabajar la jugabilidad, con la tecla c crea el sushi y programamos los Blueprints de las misiones
+ 
+### Problemas detectados
+- Con la logica lista nos faltaba agregar los modelos para la creacion de sushi y para las misiones 
+
+### Soluciones / optimizaciones
+Soluciones:
+- Alan resolvio esto agregandolos en lo que Fatima y doria trabajaban en otros pias
+
+ # Semana 16
+### Cambios agregados
+- Agregamos los modelos (Ingredientes de la cocina) y decoramos el interior de la cocina se le aplico la misma optimizacion de que estos modelos desaparezcan cuando estan muy lejos 
+ 
+### Problemas detectados
+- No hubo problemas esta semana respecto a los cambios agregados solo hubo por el tiempo restante y que descubrimos que habia bugs en las misiones 
+
+### Soluciones / optimizaciones
+Soluciones:
+- Empezamos a trabajar estos bugs
+
+ # Semana 17
+### Cambios agregados
+- En esta semana se lograron arreglar los bugs, los cuales eran que no detectaba que traia los objetos necesarios para pasarse el juego, se implementaron las cinematicas se decidio que fuera hasta la ultima semana cuando ya estuviera todo para que luego no hubieran inconsistencias 
+ 
+### Problemas detectados
+- Aun no detectamos ningun problema, avisamos al maestro de que nos faltan unas cosillas de los jugabilidad 
+
+### Soluciones / optimizaciones
+Soluciones:
+- Le echamos muchas ganas para lograr acabar esto. 
+
