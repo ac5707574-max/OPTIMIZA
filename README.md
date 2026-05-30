@@ -26,7 +26,7 @@ Este proyecto se entregara y testeara principalmente en una computadora con las 
 Developed with Unreal Engine 5
 
 ## Documentacion
-[LUCKY_SUSHI!_OV.pptx](https://github.com/user-attachments/files/25618235/LUCKY_SUSHI._OV.ppt
+[LUCKY_SUSHI!_OV.pptx](https://github.com/user-attachments/files/25618235/LUCKY_SUSHI._OV.pptx
 Documentacion Final:
 [LUCKY_SUSHI._OV (1).pptx](https://github.com/user-attachments/files/28415147/LUCKY_SUSHI._OV.1.pptx)
 
