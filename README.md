@@ -1,11 +1,11 @@
 # OPTIMIZA
 ## Pitch
-Lucky Sushi es un videojuego de un restaurante de sushi en el que vas a poder hacer los pedidos que se necesiten y entregarlos a su debida mesa, la meta es entregar los pedidos a tiempo y completar la jornada laboral, y evitar que los espiritus se apoderen de tu restaurante
+Lucky Sushi es un videojuego de un restaurante de sushi en el que vas a tener que liberar la maldicion que ataca al restaurante y al NPC atrapado en el bucle del sushi, tendras que recolectar objetos, preparar sushi e ir al templo a liberar la maldicion.
  
 ## Mecánicas
 - Exploración Libre
-- Entrega de pedidos
-- Adquirir mejoras
+- Creacion de items
+- Persecucion 
  
 ## Controles planeados
 - Teclado y mouse
@@ -19,14 +19,15 @@ Este proyecto se entregara y testeara principalmente en una computadora con las 
 -16 GB de ram
  
 ## Métricas a reportar
-- FPS promedio
-- Tiempo de carga
-- Tamaño del build
-- Resolución de texturas
+- FPS promedio 60 FPS 
+- Tiempo de carga 5 a 6 segundos
+- Tamaño del build 165 KB
+- Resolución de texturas Normales
 Developed with Unreal Engine 5
 
 ## Documentacion
 
-[LUCKY_SUSHI._OV (1).pptx](https://github.com/user-attachments/files/28415147/LUCKY_SUSHI._OV.1.pptx)
+[LUCKY_SUSHI._OV (1).pptx](https://github.com/user-attachments/files/28424290/LUCKY_SUSHI._OV.1.pptx)
+
 
 
